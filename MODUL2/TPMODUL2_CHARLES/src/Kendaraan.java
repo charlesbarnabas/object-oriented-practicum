@@ -16,6 +16,6 @@ public class Kendaraan {
     }
 
     public double hitungWaktuTempuh(double jarak) {
-        return jarak / kecepatanMaksimum;
+        return  jarak / kecepatanMaksimum;
     }
 }
