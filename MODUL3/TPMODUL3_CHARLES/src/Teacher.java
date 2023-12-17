@@ -4,7 +4,7 @@ public class Teacher extends User{
     }
 
     public void teachClass(String course){
-       System.out.println("\n"+ "Pak" + Name + " is teaching " + course);
+       System.out.println("\n"+ "Pak " + Name + " is teaching " + course);
     }
 
     @Override
