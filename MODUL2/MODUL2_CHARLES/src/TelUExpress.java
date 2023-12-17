@@ -35,3 +35,4 @@ public class TelUExpress extends Ekspedisi
         System.out.println("TelUExpress berhasil mengantar paket dengan no resi "+resi_1+" dan "+resi_2);
     }
 }
+
